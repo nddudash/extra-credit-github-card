@@ -1,3 +1,9 @@
+Authors: Nicholas Dudash
+
+References: 
+    React Bootstrap and React Bootstrap Documentation - https://react-bootstrap.github.io/
+    GitHub API - https://api.github.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
